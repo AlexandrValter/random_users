@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random users</string>
+    <string name="label_10">10</string>
+    <string name="label_25">25</string>
+    <string name="label_50">50</string>
+    <string name="title_location">Location:</string>
+    <string name="label_show">Show:</string>
+    <string name="label_date_of_birthday">Date of Birth: %d %s %d (%d years)</string>
+    <string name="label_registration_date">Registration date: %d %s %d (%d years ago)</string>
+</resources>
